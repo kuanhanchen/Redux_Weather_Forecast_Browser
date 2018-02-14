@@ -8,6 +8,8 @@ Using redux-promise and axios package to helps us handle AJAX requests inside of
 
 Using react-sparklines package to add charts.
 
+Using Google Maps Integration. inside componentDidMount().
+
 ### Getting Started
 
 There are two methods for getting started with this repo.
