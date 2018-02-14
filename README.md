@@ -6,6 +6,8 @@ Weather Forecase API: openweathermap.org/forecast5
 
 Using redux-promise and axios package to helps us handle AJAX requests inside of our app.
 
+Using react-sparklines package to add charts.
+
 ### Getting Started
 
 There are two methods for getting started with this repo.
